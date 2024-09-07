@@ -1,0 +1,71 @@
+.caja1{
+    height: 100%;
+    background-color: rgb(106, 163, 106);
+    border: 15px solid green;
+    padding: 1px;
+    font-family: "Bebas Neue";
+    font-size: 20px;
+    text-align: center;
+}
+
+.bebas-neue-regular {
+   font-family: "Bebas Neue", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+ }
+.foto{height: 100px;
+}
+.caja2{
+background-color: greenyellow; 
+width: 100%;
+border-color: rgb(104, 156, 0);
+margin: auto;
+border: 10px;
+display: inline-block;
+}
+.pb1{
+   height: 500px;
+   width: 500px;
+   margin: auto;
+   background-color: rgba(103, 148, 19, 0.733);
+   border-radius: 10%;
+
+}
+.foto1{
+   width: 450px;
+   padding-left: 25px;
+
+
+}
+.titulo1{
+   display: flex;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   padding-left: 10px;
+
+}
+.fechas {
+  margin-left: 550%;
+}
+.texto{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.h2 {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.foto2 {
+height: 325px;
+width: 400px;
+padding-left: 50px;
+
+
+}
+.foto3 { 
+   height: 350px;
+   padding-left: 50px;
+
+}
+.fechas1
+{padding-left: 370%;
+}
